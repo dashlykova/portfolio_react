@@ -1,10 +1,16 @@
 import React from "react"
 import ReactDOM from "react-dom"
 import Hello from "./Hello"
+import Header from "./Header"
 
 
 const App = () => {
-    return <Hello />
+    return (
+        <div>
+            <Hello />
+            <Header />
+        </div>
+    )        
 };
 
 ReactDOM.render(<App />, document.getElementById("app"))

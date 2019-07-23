@@ -14,7 +14,7 @@ const Hello = () => {
 
 const container = {
     position: 'absolute',
-    width: '2000px',
+    width: '2300px',
     height: '800px',
     background: '#E83F3F',
     margin: '0',
