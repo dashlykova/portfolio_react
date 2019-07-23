@@ -14,7 +14,7 @@ const Hello = () => {
 
 const container = {
     position: 'absolute',
-    width: '2300px',
+    width: '100%',
     height: '800px',
     background: '#E83F3F',
     margin: '0',
@@ -26,13 +26,13 @@ const name = {
     position: 'center',
     width: '268px',
     height: '100px',
-    paddingLeft:'25rem',
+    paddingLeft:'5rem',
     paddingTop: '30rem',
    
 
     fontFamily: 'Montserrat',
     fontStyle: 'normal',
-    fontWeight: 'normal',
+    fontWeight: 'bold',
     fontSize: '90px',
     lineHeight: '64px',
     /* or 58px */
