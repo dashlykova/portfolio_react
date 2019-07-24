@@ -6,7 +6,6 @@ const Hello = () => {
         <div className="page-container" style={container}>
             <div style={name}>
                 <p>Daria Lykova</p>
-
             </div>
         </div>
     )
@@ -23,11 +22,11 @@ const container = {
 }
 
 const name = {
-    position: 'center',
+    position: 'absolute',
     width: '268px',
     height: '100px',
-    paddingLeft:'25rem',
-    paddingTop: '30rem',
+    paddingLeft:'3rem',
+    paddingTop: '32rem',
    
 
     fontFamily: 'Montserrat',
