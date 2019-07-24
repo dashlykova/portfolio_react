@@ -6,6 +6,7 @@ import About from "./About"
 import Work from "./Work"
 import Hello from "./Hello"
 import Header from "./Header"
+import './css/tailwind.css'
 import { Switch, Route } from 'react-router-dom'
 
 

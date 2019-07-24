@@ -1,0 +1,24 @@
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+/** Page **/
+
+.page-wrapper {
+    @apply min-h-screen bg-red;
+}
+.page-content {
+    @apply flex flex-col w-full fixed pin-l pin-y;
+}
+
+/** Header **/
+
+.header {
+    @apply flex flex-row-reverse items-center justify-between flex-wrap p-6;
+}
+
+.header-title {
+    @apply text-black text-3xl;
+}
+

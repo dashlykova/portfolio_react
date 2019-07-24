@@ -26,7 +26,7 @@ const name = {
     position: 'center',
     width: '268px',
     height: '100px',
-    paddingLeft:'5rem',
+    paddingLeft:'25rem',
     paddingTop: '30rem',
    
 
