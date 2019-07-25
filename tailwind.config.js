@@ -127,6 +127,7 @@ let colors = {
   'pink-light': '#fa7ea8',
   'pink-lighter': '#ffbbca',
   'pink-lightest': '#ffebef',
+  'dash-red': 'e83f3f',
 }
 
 module.exports = {

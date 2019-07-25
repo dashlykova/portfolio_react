@@ -29,7 +29,7 @@ const headerHome = {
     color: '#E5E5E5',
     padding: '50px',
 }
-
+   
 
 const headerProjects = {
     fontFamily: 'Montserrat',
