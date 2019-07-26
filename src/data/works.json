@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Fizz Buzz",
+        "image": "src/images/fizzbuzz.png",
+        "website": "https://github.com/dashlykova/fizzbuzz_js",
+        "description": "Childrens division teaching game developed in JavaScript"
+    },
+    {
+        "id": 2,
+        "name": "Address Book",
+        "image": "src/images/address_book.png",
+        "website": "https://github.com/dashlykova/Address_book_challenge",
+        "description": "Create and save a contact app developed in JavaScript"
+    },
+    {
+        "id": 3,
+        "name": "Rock Paper Scissors",
+        "image": "src/images/rps.png",
+        "website": "https://github.com/dashlykova/rock_paper_scissors",
+        "description": "Rock Paper Scissors game developed in JavaScript, using e2e training wheels for Unit and Acceptance Testing."
+    },
+    {
+        "id": 4,
+        "name": "Library Challenge",
+        "image": "src/images/library.png",
+        "website": "https://github.com/dashlykova/library-challenge",
+        "description": "A fully functional library developed in Ruby, where you can checkout and return books, as well as check the availability of titles that might be of interest."
+    }
+]
