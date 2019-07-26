@@ -2,28 +2,28 @@
     {
         "id": 1,
         "name": "Junior Software Developer at Craft Academy",
-        "image": "src/images/fizzbuzz.png",
+        "image": "src/images/CODE.png",
         "website": "https://craftacademy.se/",
         "description": "CraftAcademy's Full Stack Web Development Coding Bootcamp. including HTML/CSS, JavaScript, React, Ruby, Rails and more. Focused on teaching devs to utilize a test-driven approach to development, using tools such as RSpec, Node, Cucumber and Cypress"
     },
     {
         "id": 2,
         "name": "Work Environment Manager at Assistans i Balans i Sverige",
-        "image": "src/images/address_book.png",
+        "image": "src/images/AB.png",
         "website": "http://www.assistansibalans.se/",
         "description": "Responsible for the organisation, risk prevention and medical assistance for the patient at the assigned place of work."
     },
     {
         "id": 3,
         "name": "Sales Account Manager at Alamo Engineering GmbH",
-        "image": "src/images/rps.png",
+        "image": "src/images/ae.png",
         "website": "https://alamo-engineering.com/",
         "description": "I was part of a group of aviation, avionics and IT professionals, that consolidates leading knowledge and experience in design, upgrade and certification for business and private aviation."
     },
     {
         "id": 4,
         "name": "Key Account Manager at Helling's Travel Argentina",
-        "image": "src/images/library.png",
+        "image": "src/images/HT.png",
         "website": "http://www.hellingstravel.com/eng/",
         "description": "I was responsible for the development of sales in East European market. Oﬀicial company representative at tourism exhibitions worldwide. In Europe: FIT Madrid, Reiselivsmessen Oslo, Vakantiebeurs Utrecht, MITT Moscow a.o"
     }
