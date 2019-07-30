@@ -978,4 +978,9 @@ module.exports = {
     separator: ':',
   },
 
+  variants: {
+    overflow: ['responsive', 'hover', 'focus'],
+  }
 }
+
+
