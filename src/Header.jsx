@@ -26,7 +26,7 @@ const headerHome = {
     fontSize: '20px',
     lineHeight: '25px',
     letterSpacing: '-0.10em',
-    color: '#E5E5E5',
+    color: 'white',
     padding: '50px',
 }
    
@@ -38,7 +38,7 @@ const headerProjects = {
     fontSize: '20px',
     lineHeight: '25px',
     letterSpacing: '-0.10em',
-    color: '#E5E5E5',
+    color: 'white',
     padding: '50px',
 }
 
@@ -49,7 +49,7 @@ const headerWork = {
     fontSize: '20px',
     lineHeight: '25px',
     letterSpacing: '-0.10em',
-    color: '#E5E5E5',
+    color: 'white',
     padding: '50px',
 }
 
@@ -60,7 +60,7 @@ const headerAbout = {
     fontSize: '20px',
     lineHeight: '25px',
     letterSpacing: '-0.10em',
-    color: '#E5E5E5',
+    color: 'white',
     padding: '50px',
 }
 

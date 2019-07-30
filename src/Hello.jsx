@@ -35,7 +35,7 @@ const name = {
     fontSize: '90px',
     lineHeight: '64px',
     letterSpacing: '-0.12em',
-    color: '#E5E5E5'
+    color: 'white'
 }
 
 
