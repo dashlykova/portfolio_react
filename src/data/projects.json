@@ -40,5 +40,12 @@
         "image": "src/images/Slowfood.png",
         "website": "https://github.com/dashlykova/the_sauerkrauts-slowfood-april-2019.git",
         "description": "Online restaurant, created in Ruby on Rails, where you can order your favourite meals. Acceptance and unit testing using Rspec and Cucumber."
+    },
+    {
+        "id": 7,
+        "name": "Legacy Code",
+        "image": "src/images/legacy.png",
+        "website": "https://github.com/dashlykova/legacy_code_june19_team2.git",
+        "description": "Mailbox app, created in Ruby on Rails, where you can create, send, receive & delete messages. Acceptance and unit testing using Rspec and Cucumber."
     }
 ]
