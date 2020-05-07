@@ -73,6 +73,7 @@ const textAbout = {
 
 const detailsBtn = {
   fontFamily: "Montserrat",
+  fontWeight: "bold",
   letterSpacing: "0em",
   textDecoration: "none",
   marginLeft: "20px",
