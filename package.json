@@ -1,9 +1,12 @@
 {
+  "homepage": "https://dashlykova.github.io/portfolio_react",
   "name": "portfolio_react",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -b gh-pages -d dist",
     "build:css": "postcss src/css/tailwind.src.css -o src/css/tailwind.css",
     "watch:css": "postcss src/css/tailwind.src.css -o src/css/tailwind.css -w",
     "start": "npm run watch:css & webpack-dev-server --inline --mode development --open",
