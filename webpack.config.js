@@ -9,7 +9,7 @@ module.exports = {
       {
         test: /\.(js|jsx)$/,
         loader: "babel-loader",
-        options: { presets: ["@babel/env"] }
+        options: { presets: ["@babel/preset-env"] }
       },
       {
         test: /\.css$/,
