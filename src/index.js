@@ -17,11 +17,10 @@ const App = () => {
                 <Header />
                 <div className="content-wrapper">
                     <Switch>
-                        {/* <BrowserRouter basename="/portfolio_react" /> */}
-                        <Route exact path='portfolio_react/' component={Hello}></Route>
-                        <Route exact path='portfolio_react/about' component={About}></Route>
-                        <Route exact path='portfolio_react/projects' component={Projects}></Route>
-                        <Route exact path='portfolio_react/work' component={Work}></Route>
+                        <Route exact path='/' component={Hello}></Route>
+                        <Route exact path='/About' component={About}></Route>
+                        <Route exact path='/Projects' component={Projects}></Route>
+                        <Route exact path='/Work' component={Work}></Route>
                     </Switch>
                 </div>
             </div >
@@ -29,7 +28,7 @@ const App = () => {
     )       
 };
 ReactDOM.render((
-    <BrowserRouter>
+    <BrowserRouter basename="/portfolio_react">
         <App />
     </BrowserRouter>
 ), document.getElementById('app'));
