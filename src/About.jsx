@@ -8,7 +8,7 @@ const About = () => {
       </h1>
       <div className="content-text" style={bodyAbout}>
       <div style={profilepic} className="w-full lg:w-1/6 md:w-1/2">
-        <img src={"/portfolio_react/src/images/profilepic.png"} />
+        <img src={"./portfolio_react/src/images/profilepic.png"} />
       </div>
         <p className="content-text" style={textAbout}>
           Hi! I'm Daria Lykova, a Software Developer based in Stockholm, Sweden.
