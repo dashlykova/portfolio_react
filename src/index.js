@@ -17,11 +17,10 @@ const App = () => {
                 <Header />
                 <div className="content-wrapper">
                     <Switch>
-                        <BrowserRouter basename="/portfolio_react" />
                         <Route exact path='/' component={Hello}></Route>
-                        <Route exact path='/About' component={About}></Route>
-                        <Route exact path='/Projects' component={Projects}></Route>
-                        <Route exact path='/Work' component={Work}></Route>
+                        <Route exact path='/about' component={About}></Route>
+                        <Route exact path='/projects' component={Projects}></Route>
+                        <Route exact path='/work' component={Work}></Route>
                     </Switch>
                 </div>
             </div >
