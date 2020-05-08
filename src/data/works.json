@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "System Developer at Nepa Sweden",
+        "image": "src/images/NP.png",
+        "website": "https://nepa.com/",
+        "description": "Development and operations of systems that enabled colleagues to deliver insights and research results to their customers. The systems were mostly .Net Core back end systems with webApis and fronts hosted in Google. Using Docker containers, Kubernetes and GCP. Participated in pair- and mobprogramming sessions. Overviewed monitoring systems and troubleshoot alerts and error messages as well as brainstorm with the team for an idea of how to solve the problem."
+    },
+    {
+        "id": 2,
+        "name": "Junior Software Developer at Craft Academy",
+        "image": "src/images/CODE.png",
+        "website": "https://craftacademy.se/",
+        "description": "CraftAcademy's Full Stack Web Development Coding Bootcamp, including HTML/CSS, JavaScript, React, Ruby, Rails and more. Focused on teaching devs to utilize a test-driven approach to development, using tools such as RSpec, Node, Cucumber and Cypress."
+    },
+    {
+        "id": 3,
+        "name": "Work Environment Manager at Assistans i Balans i Sverige",
+        "image": "src/images/AB.png",
+        "website": "http://www.assistansibalans.se/",
+        "description": "Responsible for the organisation, risk prevention and medical assistance for the patient at the assigned place of work."
+    },
+    {
+        "id": 4,
+        "name": "Sales Account Manager at Alamo Engineering GmbH",
+        "image": "src/images/ae.png",
+        "website": "https://alamo-engineering.com/",
+        "description": "I was part of a group of aviation, avionics and IT professionals, that consolidates leading knowledge and experience in design, upgrade and certification for business and private aviation."
+    },
+    {
+        "id": 5,
+        "name": "Key Account Manager at Helling's Travel Argentina",
+        "image": "src/images/HT.png",
+        "website": "http://www.hellingstravel.com/eng/",
+        "description": "I was responsible for the development of sales in East European market. Oﬀicial company representative at tourism exhibitions worldwide. In Europe: FIT Madrid, Reiselivsmessen Oslo, Vakantiebeurs Utrecht, MITT Moscow a.o"
+    }
+]

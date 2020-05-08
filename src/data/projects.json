@@ -1,0 +1,51 @@
+[   
+    {
+        "id": 1,
+        "name": "ATM Challenge",
+        "image": "src/images/atm.png",
+        "website": "https://github.com/dashlykova/atm_challenge.git",
+        "description": "This ATM simulator created in Ruby allows you to withdraw money or make a deposit after checking your credentials. Tested in Rspec"
+    },
+    {
+        "id": 2,
+        "name": "Library Challenge",
+        "image": "src/images/library.png",
+        "website": "https://github.com/dashlykova/library-challenge",
+        "description": "A fully functional library developed in Ruby, where you can checkout and return books, as well as check the availability of titles that might be of interest. Tested in Rspec "
+    },
+    {
+        "id": 3,
+        "name": "Address Book",
+        "image": "src/images/address_book.png",
+        "website": "https://github.com/dashlykova/Address_book_challenge",
+        "description": "Create and save a contact app developed in JavaScript"
+    },
+    {
+        "id": 4,
+        "name": "Fizz Buzz",
+        "image": "src/images/fizzbuzz.png",
+        "website": "https://github.com/dashlykova/fizzbuzz_js",
+        "description": "Childrens division teaching game developed in JavaScript"
+    },
+    {
+        "id": 5,
+        "name": "Rock Paper Scissors",
+        "image": "src/images/rps.png",
+        "website": "https://github.com/dashlykova/rock_paper_scissors",
+        "description": "Rock Paper Scissors game developed in JavaScript, using e2e training wheels for Unit and Acceptance Testing."
+    },
+    {
+        "id": 6,
+        "name": "Slowfood",
+        "image": "src/images/Slowfood.png",
+        "website": "https://github.com/dashlykova/the_sauerkrauts-slowfood-april-2019.git",
+        "description": "Online restaurant, created in Ruby on Rails, where you can order your favourite meals. Acceptance and unit testing using Rspec and Cucumber."
+    },
+    {
+        "id": 7,
+        "name": "Legacy Code",
+        "image": "src/images/legacy.png",
+        "website": "https://github.com/dashlykova/legacy_code_june19_team2.git",
+        "description": "Mailbox app, created in Ruby on Rails, where you can create, send, receive & delete messages. Acceptance and unit testing using Rspec and Cucumber."
+    }
+]
