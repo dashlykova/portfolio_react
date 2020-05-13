@@ -17,7 +17,9 @@ const About = () => {
         <p className="content-text" style={textAbout}>
           I am a curious code addict who has worked mostly in .NET Core
           framework for the last year and now am looking for creative horizons
-          to explore. If you would like to get in touch, just hit the button!{" "}
+          to explore. 
+          I am passionate about learning new things and discover different cultures. I speak four languages and love to travel. 
+          If you share my love for gifs or would like to get in touch, just hit the button!{" "}
         </p>
         <a
           href="mailto:daria.lykova@gmail.com"
@@ -26,6 +28,14 @@ const About = () => {
           className="text-white border border-white text-xs py-1 px-2"
         >
           Contact
+        </a>
+        <a
+          href="https://www.linkedin.com/in/darialykova/"
+          target="_blank"
+          style={linkedinBtn}
+          className="text-white border border-white text-xs py-1 px-2"
+        >
+          LinkedIn
         </a>
       </div>
     </div>
@@ -72,6 +82,14 @@ const textAbout = {
 };
 
 const detailsBtn = {
+  fontFamily: "Montserrat",
+  fontWeight: "bold",
+  letterSpacing: "0em",
+  textDecoration: "none",
+  marginLeft: "20px",
+  marginTop: "25px",
+};
+const linkedinBtn = {
   fontFamily: "Montserrat",
   fontWeight: "bold",
   letterSpacing: "0em",

@@ -43,7 +43,7 @@
     },
     {
         "id": 7,
-        "name": "Legacy Code",
+        "name": "Improving & working on Legacy Code",
         "image": "src/images/legacy.png",
         "website": "https://github.com/dashlykova/legacy_code_june19_team2.git",
         "description": "Mailbox app, created in Ruby on Rails, where you can create, send, receive & delete messages. Acceptance and unit testing using Rspec and Cucumber."

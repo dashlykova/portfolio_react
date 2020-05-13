@@ -28,7 +28,7 @@ const App = () => {
     )       
 };
 ReactDOM.render((
-    <BrowserRouter basename="/portfolio_react">
+    <BrowserRouter basename="/portfolio_react" >
         <App />
     </BrowserRouter>
 ), document.getElementById('app'));
